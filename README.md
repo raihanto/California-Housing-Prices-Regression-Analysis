@@ -1,5 +1,5 @@
 # California Housing Prices Regression Analysis
-Purwadhika JCDSVL07 Capstone Project Modul 3
+*Purwadhika JCDSVL07 Capstone Project Modul 3*
 
 Pada akhir Modul 3 Program Job Connector Data Science di Purwadhika, saya diharuskan untuk melakukan analisa terkait tingkat kepuasan pelanggan suatu maskapai penerbangan sebagai bagian dari latihan pemahaman mengenai Data Analytics.
 
